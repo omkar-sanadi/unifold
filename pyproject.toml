@@ -23,8 +23,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/WIZ4RD-OM24/unifold"
-Issues = "https://github.com/WIZ4RD-OM24/unifold/issues"
+Homepage = "https://github.com/omkar-sanadi/unifold"
+Issues = "https://github.com/omkar-sanadi/unifold/issues"
 
 [project.scripts]
 unifold = "unifold.cli:main"

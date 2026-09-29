@@ -1,6 +1,6 @@
 # unifold
 
-[![tests](https://github.com/WIZ4RD-OM24/unifold/actions/workflows/tests.yml/badge.svg)](https://github.com/WIZ4RD-OM24/unifold/actions/workflows/tests.yml)
+[![tests](https://github.com/omkar-sanadi/unifold/actions/workflows/tests.yml/badge.svg)](https://github.com/omkar-sanadi/unifold/actions/workflows/tests.yml)
 
 **Work on your Uniface codebase with the tools everyone else already uses.**
 

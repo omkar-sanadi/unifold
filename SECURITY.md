@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Open an issue at <https://github.com/WIZ4RD-OM24/unifold/issues>. If the report
+Open an issue at <https://github.com/omkar-sanadi/unifold/issues>. If the report
 would itself disclose something sensitive, say so in the issue without the
 detail and ask for a private channel first.
 
